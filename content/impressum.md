@@ -7,7 +7,7 @@ draft: false
 
 Jan Stamer
 Kruhnskoppel 68b
-24558 Hensted-Ulzburg
+24558 Henstedt-Ulzburg
 
 Kontakt
 E-Mail: baralga@tack.dev
