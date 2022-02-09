@@ -7,5 +7,13 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
-
-
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Permissions-Policy = "fullscreen=*"
+    Content-Security-Policy = "base-uri 'self'"
+    Referrer-Policy = "same-origin"

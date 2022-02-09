@@ -1,6 +1,0 @@
-/*
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
-  Permissions-Policy: fullscreen=*
-  Content-Security-Policy: base-uri 'self'
-  Referrer-Policy: same-origin
