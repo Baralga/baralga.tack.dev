@@ -1,12 +1,13 @@
 ---
 title: "Impressum"
 date: 2019-09-01T23:11:13Z
-description: "Baralga | Simple Project Time Tracking"
+description: "Baralga | Impressum"
+layout: "single"
 draft: false
 ---
 
-Jan Stamer
-Kruhnskoppel 68b
+Jan Stamer<br/>
+Kruhnskoppel 68b<br/>
 24558 Henstedt-Ulzburg
 
 Kontakt

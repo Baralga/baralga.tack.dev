@@ -3,6 +3,7 @@ title: "Simple Project Time Tracking"
 date: 2019-09-01T23:11:13Z
 description: "Baralga | Simple Project Time Tracking"
 draft: false
+images: ["/Baralga-Splash.png"]
 ---
 
 <div class="px-2 px-lg-4 py-2 py-lg-5 text-center bg-white">
@@ -41,13 +42,58 @@ draft: false
           <li>stopwatch for easy tracking</li>
           <li>manually add and edit activities</li>
           <li>handy shortcuts to enter data fast</li>
-          <li>report as Excel, CSV</li>
+          <li>report as Excel and CSV</li>
+          <li>archive old projects</li>
         </ul>
         <ul class="lead mb-4 text-start">
           <li>start with our free cloud service</li>
-          <li>desktop application for Win, Mac, Linux</li>
+          <li><a href="#section-desktop-app">desktop application</a> for Win, Mac, Linux</li>
+          <li>easy social login via Github</li>
           <li>free and open source</li>
+          <li>respects your privacy (no ads no tracking)</li>
         </ul>
     </div>
     </div>
-  </div>
+</div>
+
+<div class="px-4 py-3 my-5 text-center" id="section-desktop-app">
+    <h1 class="display-5 fw-bold">Desktop Application</h1>
+    <div class="row">
+      <div class="col-sm-12 col-lg-6">
+        <p class="lead">The Baralga Desktop Application is available for Windows, Mac and Linux. You can either store your data on your device or connect it to our cloud.</p>
+        <div class="">
+        <h2 class="display-7 fw-bold">Download</h2>
+        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.7/Baralga-1.9.7-Installer.jar" class="btn btn-primary"><i class="bi-cloud-download me-2"></i> Baralga 1.9.7 Installer</a>
+        <!--
+        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.7/Baralga-1.9.7-Installer.jar" class="btn btn-primary"<i class="bi-cloud-download me-2"></i> Baralga 1.9.7 for Cloud</a>
+        -->
+        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.7/Baralga-Portable-1.9.7.zip" class="btn btn-primary"><i class="bi-cloud-download me-2"></i> Baralga 1.9.7 Portable</a>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-6">
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="/baralga-desktop-main-screen.png" class="d-block mx-auto" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="/baralga-desktop-screen-projects.png" class="d-block mx-auto" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="/baralga-desktop-sample-report.png" class="d-block mx-auto" alt="...">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </div>
+</div>
+
+

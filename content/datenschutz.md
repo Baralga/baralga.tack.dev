@@ -1,7 +1,8 @@
 ---
 title: "Datenschutzerklärung"
 date: 2019-09-01T23:11:13Z
-description: "Baralga | Simple Project Time Tracking"
+description: "Baralga | Datenschutzerklärung"
+layout: "single"
 draft: false
 ---
 

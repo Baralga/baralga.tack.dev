@@ -6,12 +6,10 @@
     <script src="/bootstrap-5.1.3/bootstrap.bundle.min.js" async defer="defer"></script>
 
     <link rel="stylesheet" href="/bootstrap-dark-5@1.1.3/bootstrap-dark.min.css" type="text/css" >
-    <link rel="stylesheet" href="/bootstrap-icons-1.8.0/bootstrap-icons.css" type="text/css" >
-
+    <link rel="stylesheet" href="/bootstrap-icons-1.8.0/bootstrap-icons.css" media="print" onload="this.media='all'" type="text/css" >
     <link rel="shortcut icon" href="/baralga_48.png" >
 
-
-    {{ $title := print .Site.Title " | " .Title -}}
+    {{ $title := print .Title " | " .Site.Title -}}
     
     {{ if .Params.canonicalUrl -}}
     <link rel="canonical" href="{{ .Params.canonicalUrl }}">
