@@ -63,11 +63,9 @@ images: ["/Baralga-Splash.png"]
         <p class="lead">The Baralga Desktop Application is available for Windows, Mac and Linux. You can either store your data on your device or connect it to our cloud.</p>
         <div class="">
         <h2 class="display-7 fw-bold">Download</h2>
-        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.7/Baralga-1.9.7-Installer.jar" class="btn btn-primary"><i class="bi-cloud-download me-2"></i> Baralga 1.9.7 Installer</a>
-        <!--
-        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.7/Baralga-1.9.7-Installer.jar" class="btn btn-primary"<i class="bi-cloud-download me-2"></i> Baralga 1.9.7 for Cloud</a>
-        -->
-        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.7/Baralga-Portable-1.9.7.zip" class="btn btn-primary"><i class="bi-cloud-download me-2"></i> Baralga 1.9.7 Portable</a>
+        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.8/Baralga-v1.9.8-Installer.jar" class="btn btn-primary me-2"><i class="bi-cloud-download me-2"></i> Baralga 1.9.8 Installer</a>
+        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.8/Baralga-Portable-v1.9.8.zip" class="btn btn-primary me-2"><i class="bi-cloud-download me-2"></i> Baralga 1.9.8 Portable</a>
+        <a href="https://github.com/Baralga/baralga/releases/download/v1.9.8/Baralga-Portable-Multiuser-v1.9.8.zip" class="btn btn-primary"><i class="bi-cloud-download me-2"></i> Baralga 1.9.8 Multiuser</a>
         </div>
       </div>
       <div class="col-sm-12 col-lg-6">
